@@ -1,2 +1,3 @@
 # rayTracer
-Ray tracer project
+
+This repository contains my Ray tracer project
